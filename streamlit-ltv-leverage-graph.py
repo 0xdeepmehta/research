@@ -106,3 +106,7 @@ Key points:
 
 Experiment with the sliders in each tab to see how changes affect the position of the red dot on the chart.
 """)
+
+st.markdown(f'''
+    [Made by 0xDeep](https://twitter.com/0xDeep)
+''')
